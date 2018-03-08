@@ -6,8 +6,7 @@ import java.util.Scanner;
 public class String_ extends Exception{
     static private int numero;
     static private int numero2;
-   
-    @SuppressWarnings("empty-statement")
+   //cambio
     public static void main (String []args){     
         Scanner entrada = new Scanner(System.in);
         System.out.print("2 ingrese un numero: ");
